@@ -1,2 +1,2 @@
 # Gaganbatthcoder06.github.io
-## **Excel certificate**
+## *Excel certificate*
