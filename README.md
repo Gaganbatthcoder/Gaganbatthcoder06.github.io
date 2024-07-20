@@ -5,6 +5,9 @@
 
 *here is my detailed marksheet of class 12 under non medical stream*
 
+|s.no| subject | theory | practical | total|
+|-----|--------|------|------|------|
+
 **My experience in Excel through this online course was very nice. In these lectures I learn so many things and gain such a huge amount of knowledge from it. Firstly I came to know that Excel is a spreadsheet program from microsoft and a component of its office product group for bussiness applications. Microsoft excel enables user to format, organise and calculate large amount of data in a single spreadsheet.**
 *Here is some information about the functions of Excel*
 
