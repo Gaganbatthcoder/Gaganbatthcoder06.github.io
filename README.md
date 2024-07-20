@@ -59,10 +59,15 @@ borders you can highlight cell with a border. the shortcut key to apply a border
 Filtering means hiding data by FONT COLOR and VALUES.
 
 **10:-** ***CONCATENATE IN EXCEL***
+
 **11:-** ***TRIM IN EXCEL***
+
 **12:-** ***FIND AND SEARCH***
+
 **13:-** ***DIFFERENT SORT OF CHARTS***
+
 **14:-** ***DATE AND TIME***
+
 **15:-** ***LOWER AND UPPER CASE***
 
 
