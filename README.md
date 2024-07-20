@@ -14,6 +14,8 @@
 |5.| CHEMISTRY | 51 | 30 | 81 |
 
 **RESULT:- 382 MARKS** 
+
+
 **My experience in Excel through this online course was very nice. In these lectures I learn so many things and gain such a huge amount of knowledge from it. Firstly I came to know that Excel is a spreadsheet program from microsoft and a component of its office product group for bussiness applications. Microsoft excel enables user to format, organise and calculate large amount of data in a single spreadsheet.**
 *Here is some information about the functions of Excel*
 
